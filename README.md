@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [Student Management System](https://github.com/archanat753/LibraryManagement) – A console-based Java app  
+🔹 [Library Management System](https://github.com/archanat753/LibraryManagement) – A console-based Java app  
 🔹 [Portfolio Website](https://archanat753.github.io/) – My personal website  
 
 ---
