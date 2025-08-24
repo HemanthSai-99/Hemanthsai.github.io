@@ -1,13 +1,28 @@
-# archanat753.github.io
-# 👋 Hi, I'm ARCHANA
+# 👩‍💻 Hi, I'm Archana!
 
-## 💼 About Me
-- 🔭 I’m currently working on ATS
-- 📫 How to reach me: [archanat753gmail.com]
+🎓 B.Tech Graduate | 💻 Java Developer | 📚 IT Trainer (past)  
+🌱 Currently learning **Spring Boot & SQL**  
+✨ Passionate about coding, teaching, and building projects  
 
-## 🛠️ Technologies & Tools
--JAVA
-<br>
--PYTHON
--HTML
+---
+
+## 🚀 Skills
+- **Languages**: Java, Python, SQL
+- **Web**: HTML, CSS
+- **Tools**: Git, GitHub, VS Code
+- **Database**: PostgreSQL, MySQL
+
+---
+
+## 📂 Featured Projects
+🔹 [Student Management System](https://github.com/archanat753/LibraryManagement) – A console-based Java app  
+🔹 [Portfolio Website](https://archanat753.github.io/) – My personal website  
+
+---
+
+
+
+## 📬 Connect with Me
+- GitHub: (https://github.com/archanat753)  
+- Email: archnat753@gmail.com
 
